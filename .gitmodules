@@ -1,3 +1,6 @@
 [submodule "sevensegment"]
 	path = sevensegment
 	url = https://github.com/m01/sevensegment.git
+[submodule "tg_lib"]
+	path = tg_lib
+	url = https://github.com/m01/tg_lib.git
