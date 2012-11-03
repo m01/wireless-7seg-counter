@@ -2,10 +2,12 @@
 #
 #  $Id$
 
+# This is a little module that will call a script to update a 7
+# segment display connected to a Raspberry Pi, via a wrapper so that
+# it is run as root.
 #
-#  This is a more general example of the execute module.
+# It's based on the "echo" example. I didn't use the attribute stuff.
 #
-#  This one is called "echo".
 #
 #  Attribute-Name = `%{echo:/path/to/program args}`
 #
